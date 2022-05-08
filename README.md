@@ -77,5 +77,3 @@ E aqui está a minha solução do [QR code component challenge on Frontend Mento
 ## Agradecimentos
 
 Um agradecimento especial pro viniciusorisso que me ajudou não a fazer, mas a pesquisar e a ter um raciocinio lógico dentro dos trambites do projetinho. Valeu rapaze :)
-
-**Note: Delete this note and edit this section's content as necessary. If you completed this challenge by yourself, feel free to delete this section entirely.**
