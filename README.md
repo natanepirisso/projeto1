@@ -17,7 +17,7 @@ E aqui está a minha solução do [QR code component challenge on Frontend Mento
 
 ### Foto do resultado
 
-![](./projetoCompleto.jpg)
+![](images/projetoCompleto.jpg)
 
 
 
