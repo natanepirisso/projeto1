@@ -1,16 +1,16 @@
 # Frontend Mentor - QR code component solution
 
-This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+E aqui está a minha solução do [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H).
 
-## Table of contents
+## Tabela de conteúdos
 
 - [Overview](#overview)
-  - [Screenshot](#screenshot)
-- [My process](#my-process)
-  - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-- [Author](#author)
-- [Acknowledgments](#acknowledgments)
+  - [Como ficou](#foto-do-resultado)
+- [Processo](#processo)
+  - [Feito com](#feito-com)
+  - [O que eu aprendi](#o-que-eu-aprendi)
+- [Autor](#autor)
+- [Agradecimentos](#agradecimentos)
 
 
 ## Overview
@@ -21,9 +21,9 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 
 
-## My process
+## Processo
 
-### Built with
+### Feito com
 
 - Semantic HTML5 markup
 - CSS custom properties
@@ -31,7 +31,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - Google Fonts
 - [Styled Components](https://styled-components.com/) - For styles
 
-### What I learned
+### O que eu aprendi
 
 **Como iniciar um projetinho**
   Olha... devo admitir que quando comecei a fazer este projeto, me perdia muito na parte de "como começar". Aprendi então de uma forma bem interessante como "ler" o tamplate e usa-lo ao meu favor. Foi um pontapé muito importante pra mim.
@@ -65,13 +65,13 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   Recaptulei também alguns conceitos que eu tinha me esquecido por conta da falta de pratica, como ***Vh***, ***Hierarquia***, ***efeito cascata*** entre outros. Acontece haha.
 
 
-## Author
+## Autor
 
 - Frontend Mentor - [@natanepirisso](https://www.frontendmentor.io/profile/natanepirisso)
 - Instagram - [@natanepirisso](https://www.instagram.com/natanepirisso/)
 
 
-## Acknowledgments
+## Agradecimentos
 
 Um agradecimento especial pro viniciusorisso que me ajudou não a fazer, mas a pesquisar e a ter um raciocinio lógico dentro dos trambites do projetinho. Valeu rapaze :)
 
