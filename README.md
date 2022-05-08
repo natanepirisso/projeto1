@@ -64,7 +64,7 @@ E aqui está a minha solução do [QR code component challenge on Frontend Mento
     border-radius: 20px;
   ```
 
-**Nota**
+**Nota:**
   Recaptulei também alguns conceitos que eu tinha me esquecido por conta da falta de pratica, como ***Vh***, ***Hierarquia***, ***efeito cascata*** entre outros. Acontece haha.
 
 
