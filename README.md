@@ -34,12 +34,15 @@ E aqui está a minha solução do [QR code component challenge on Frontend Mento
 ### O que eu aprendi
 
 **Como iniciar um projetinho**
+
   Olha... devo admitir que quando comecei a fazer este projeto, me perdia muito na parte de "como começar". Aprendi então de uma forma bem interessante como "ler" o tamplate e usa-lo ao meu favor. Foi um pontapé muito importante pra mim.
   
 **"Por que meu conteúdo não desce??"**
+
   Tive um problema muito chato enquanto fazia meu projeto kkkk: ***O conteúdo simplesmente se negava a descer!***. Depois de uma assistencia, descobri que na verdade o problema estava nas medidas fixas e dinamicas do meu projeto.
 
 **Flexbox**
+
   Aprendi também sobre a Flexbox e aonde devo colocá-la
  ```
  .content{
