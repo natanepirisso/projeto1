@@ -18,6 +18,7 @@ E aqui está a minha solução do [QR code component challenge on Frontend Mento
 ### Foto do resultado
 
 ![](images/projetoCompleto.png)
+***O "Ativar o Windows" do lado ali é por puro charme xD***
 
 
 
