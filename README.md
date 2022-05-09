@@ -35,7 +35,7 @@ E aqui está a minha solução do [QR code component challenge on Frontend Mento
 
 **Como iniciar um projetinho**
 
-  Olha... devo admitir que quando comecei a fazer este projeto, me perdia muito na parte de "como começar". Aprendi então de uma forma bem interessante como "ler" o tamplate e usa-lo ao meu favor. Foi um pontapé muito importante pra mim.
+  Olha... devo admitir que quando comecei a fazer este projeto, me perdia muito na parte de "como começar". Aprendi então de uma forma bem interessante como "ler" o template e usa-lo ao meu favor. Foi um pontapé muito importante pra mim.
   
 **"Por que meu conteúdo não desce??"**
 
