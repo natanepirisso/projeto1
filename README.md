@@ -30,7 +30,6 @@ E aqui está a minha solução do [QR code component challenge on Frontend Mento
 - CSS custom properties
 - Flexbox
 - Google Fonts
-- [Styled Components](https://styled-components.com/) - For styles
 
 ### O que eu aprendi
 
